@@ -16,7 +16,7 @@
     <header id="header" >
 
             <a class="logo" href="<?php echo get_home_url(); ?>">
-                <img src="<?php echo MBN_ASSETS_URI ?>/img/logo.png" alt="">
+                <figure id="logo"><img src="<?php bloginfo('template_url'); ?>/resources/img/logo.png" alt="" width="386" height="96"></figure>
             </a>
                 
             <div class="menu">    
