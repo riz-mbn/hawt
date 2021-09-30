@@ -134,14 +134,14 @@
                         <span class="social_icon fb_icon">
                             <a href="#" target="_blank">
                                 <figure>
-                                    <img src="<?php bloginfo('template_url'); ?>/lander/img/icn-fb.svg" alt="" width="auto" height="18" />
+                                    <img src="<?php bloginfo('template_url'); ?>/lander/img/icn-fb.svg" alt="" width="9" height="18" />
                                 </figure>
                             </a>
                         </span>
                         <span class="social_icon ig_icon">
                             <a href="#" target="_blank">
                                 <figure>
-                                    <img src="<?php bloginfo('template_url'); ?>/lander/img/icn-ig.svg" alt="" width="auto" height="18" />
+                                    <img src="<?php bloginfo('template_url'); ?>/lander/img/icn-ig.svg" alt="" width="14" height="18" />
                                 </figure>
                             </a>
                         </span>

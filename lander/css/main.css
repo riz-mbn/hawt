@@ -921,9 +921,7 @@
       .footer-info {padding: 0 15px;}
       .footer-form {background: url() no-repeat left bottom / 100% 100%; padding: 30px 35px;}
       .footer-form .action {text-align: center;}
-  
-      .copyright {margin-top: 25px;}
-  
+	  .footer .footbot { flex-direction: column; align-items: center;}
       .fancybox-slide {padding: 15px;}
   }
   
